@@ -15,4 +15,4 @@ In the process, I gain practical experience and develop intuition around the fol
 4. Fine-tune the model by adding Data Augmentation and Dropout to fight overfitting.
 5. Test the new model with samples
 
-![CleanShot 2021-11-01 at 23 33 06](https://user-images.githubusercontent.com/3027146/139750826-187aa2a3-e29c-4701-911e-8d201261ca6c.jpg)
+![CleanShot 2021-11-02 at 21 37 13](https://user-images.githubusercontent.com/3027146/139948080-ecde4abd-5a37-418d-bbd9-128b5fea2c22.jpg)
