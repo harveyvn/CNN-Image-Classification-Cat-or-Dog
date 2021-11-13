@@ -1,6 +1,6 @@
 This repository demonstrates how to classify images into pictures of cats or dogs by building an image classifier using `tf.keras.Sequential` model.
 
-## There are some concepts applied in this project:
+## There are some concepts covered in this project:
 * Taking data and label arrays or takes the path to a directory, then generates batches of augmented data by building _data input pipelines_ with the support of `tf.keras.preprocessing.image.ImageDataGenerator` class.
 * Working and processing data on disk to interface with the model.
 * Tackling an overfitting problem in computer vision by implementing _Data Augmentation_ and _Dropout_  techniques.
